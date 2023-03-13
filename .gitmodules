@@ -1,0 +1,6 @@
+[submodule "skynet-admin"]
+	path = skynet-admin
+	url = https://github.com/CenWuCN/skynet-admin
+[submodule "skynet-admin-web"]
+	path = skynet-admin-web
+	url = https://github.com/CenWuCN/skynet-admin-web

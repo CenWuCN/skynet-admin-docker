@@ -9,7 +9,7 @@ Packing skynet-admin docker script.
 
 ```bash
 docker pull zhongzhe/skynet-admin:v1
-docker run -p 80:80 -p 8001:8001 -d skynet-admin:v1
+docker run -p 80:80 -p 8001:8001 -d zhongzhe/skynet-admin:v1
 ```
 
 然后在 docker 运行的主机上用浏览器访问 http://127.0.0.1 即可。
